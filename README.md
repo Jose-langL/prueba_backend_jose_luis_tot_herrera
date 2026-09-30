@@ -234,3 +234,7 @@ El objetivo es desarrollar una API REST que permita gestionar el proceso básico
 * Manejo de peticiones HTTP.
 * Rutas de la API.
 * Modelos de datos.
+
+
+## enlace al chat 
+https://chatgpt.com/share/6abd9870-92e8-83e8-be39-cf74b1547e03
